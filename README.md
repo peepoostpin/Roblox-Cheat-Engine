@@ -1,2 +1,2 @@
 # Roblox-Cheat-Engine
-modded CE for Roblox
+Remake of Cheat Engine optimized for Roblox.
